@@ -20,7 +20,7 @@ pub fn disctinct_z3(ctx: &Z3_context, args: &Vec<Z3_ast>) -> Z3_ast {
 
 pub fn not_z3(ctx: &Z3_context, arg: &Z3_ast) -> Z3_ast {
     unsafe {
-        Z3_mk_not(*ctx, arg)
+        Z3_mk_not(*ctx, *arg)
     }
 }
 
