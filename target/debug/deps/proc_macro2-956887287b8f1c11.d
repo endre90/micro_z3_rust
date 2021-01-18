@@ -1,0 +1,12 @@
+/home/endre/rust_crates/z3_v3/target/debug/deps/proc_macro2-956887287b8f1c11.rmeta: /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/lib.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/marker.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/parse.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/detection.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/fallback.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/wrapper.rs
+
+/home/endre/rust_crates/z3_v3/target/debug/deps/libproc_macro2-956887287b8f1c11.rlib: /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/lib.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/marker.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/parse.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/detection.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/fallback.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/wrapper.rs
+
+/home/endre/rust_crates/z3_v3/target/debug/deps/proc_macro2-956887287b8f1c11.d: /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/lib.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/marker.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/parse.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/detection.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/fallback.rs /home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/wrapper.rs
+
+/home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/lib.rs:
+/home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/marker.rs:
+/home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/parse.rs:
+/home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/detection.rs:
+/home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/fallback.rs:
+/home/endre/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.22/src/wrapper.rs:
