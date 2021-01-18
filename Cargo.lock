@@ -349,6 +349,22 @@ dependencies = [
 ]
 
 [[package]]
+name = "micro_z3_rust"
+version = "0.1.0"
+dependencies = [
+ "criterion",
+ "crossbeam",
+ "env_logger",
+ "itertools 0.8.2",
+ "lazy_static",
+ "log",
+ "serde",
+ "serde_json",
+ "serial_test",
+ "z3-sys",
+]
+
+[[package]]
 name = "num-traits"
 version = "0.2.12"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -775,19 +791,3 @@ checksum = "712e227841d057c1ee1cd2fb22fa7e5a5461ae8e48fa2ca79ec42cfc1931183f"
 name = "z3-sys"
 version = "0.5.0"
 source = "git+https://github.com/endre90/z3_sys_v2#69ccc65e19eee1eac6f95b164e956fa9cb8e974c"
-
-[[package]]
-name = "z3_v3"
-version = "0.1.0"
-dependencies = [
- "criterion",
- "crossbeam",
- "env_logger",
- "itertools 0.8.2",
- "lazy_static",
- "log",
- "serde",
- "serde_json",
- "serial_test",
- "z3-sys",
-]
